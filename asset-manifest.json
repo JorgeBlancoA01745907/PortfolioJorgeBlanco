@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PortfolioJorgeBlanco/static/css/main.5648f22b.css",
-    "main.js": "/PortfolioJorgeBlanco/static/js/main.aef174fe.js",
+    "main.css": "/PortfolioJorgeBlanco/static/css/main.81723363.css",
+    "main.js": "/PortfolioJorgeBlanco/static/js/main.a52154f8.js",
     "static/media/coursera2.png": "/PortfolioJorgeBlanco/static/media/coursera2.f2e475c331dba692c565.png",
     "static/media/coursera1.png": "/PortfolioJorgeBlanco/static/media/coursera1.0a67a596a93d85fa940f.png",
     "static/media/tec.jpg": "/PortfolioJorgeBlanco/static/media/tec.8604883919c3dcaaa374.jpg",
     "index.html": "/PortfolioJorgeBlanco/index.html",
-    "main.5648f22b.css.map": "/PortfolioJorgeBlanco/static/css/main.5648f22b.css.map",
-    "main.aef174fe.js.map": "/PortfolioJorgeBlanco/static/js/main.aef174fe.js.map"
+    "main.81723363.css.map": "/PortfolioJorgeBlanco/static/css/main.81723363.css.map",
+    "main.a52154f8.js.map": "/PortfolioJorgeBlanco/static/js/main.a52154f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.5648f22b.css",
-    "static/js/main.aef174fe.js"
+    "static/css/main.81723363.css",
+    "static/js/main.a52154f8.js"
   ]
 }
